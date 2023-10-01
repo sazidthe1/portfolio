@@ -40,11 +40,11 @@ params:
   # Home Page
   profileMode:
     enabled: true
-    title: "Sazid"
-    subtitle: Hi 👋! I'm Sazid, .
-    imageUrl: "home/content/images/sazid.jpeg"
-    imageWidth: 220
-    imageHeight: 220
+    title: "Sazidul Islam"
+    subtitle: Hi 👋! I'm Sazid, a Data Analyst based in Asia 🌏
+    imageUrl: ""
+    imageWidth: 200
+    imageHeight: 200
     # buttons:
     #   - name: Resume
     #     url: ""
