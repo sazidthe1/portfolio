@@ -9,18 +9,22 @@ menu:
       name: Home
       url: /
       weight: 10
-    - identifier: blog
-      name: Blog
-      url: /blog
+    - identifier: about
+      name: About
+      url: /about
       weight: 20
     - identifier: projects
       name: Projects
       url: /projects
       weight: 30
+    - identifier: articles
+      name: Articles
+      url: /articles
+      weight: 40
     - identifier: contact
       name: Contact
       url: /contact
-      weight: 40
+      weight: 50
     # - identifier: tags
     #   name: Tags
     #   url: /tags
@@ -43,8 +47,8 @@ params:
     title: "Sazidul Islam"
     subtitle: Hi, I am Sazid, a Data Analyst based in Asia 🌏 </br> I am passionate about data, open source, and helping people around.
     imageUrl: "home/sazid.jpeg"
-    imageWidth: 215
-    imageHeight: 215
+    imageWidth: 175
+    imageHeight: 175
 
   # List View
   hideDescriptionInList: false
