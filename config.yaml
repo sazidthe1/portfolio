@@ -42,9 +42,9 @@ params:
     enabled: true
     title: "Sazidul Islam"
     subtitle: Hi, I am Sazid, a Data Analyst based in Asia 🌏 </br> I am passionate about data, open source, and helping people around.
-    imageUrl: ""
-    imageWidth: 200
-    imageHeight: 200
+    imageUrl: "home/sazid.jpeg"
+    imageWidth: 215
+    imageHeight: 215
 
   # List View
   hideDescriptionInList: false
