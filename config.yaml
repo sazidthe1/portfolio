@@ -9,22 +9,18 @@ menu:
       name: Home
       url: /
       weight: 10
-    - identifier: about
-      name: About
-      url: /about
-      weight: 20
     - identifier: projects
       name: Projects
       url: /projects
-      weight: 30
+      weight: 20
     - identifier: articles
       name: Articles
       url: /articles
-      weight: 40
+      weight: 30
     - identifier: contact
       name: Contact
       url: /contact
-      weight: 50
+      weight: 40
     # - identifier: tags
     #   name: Tags
     #   url: /tags
@@ -45,7 +41,7 @@ params:
   profileMode:
     enabled: true
     title: "Sazidul Islam"
-    subtitle: Hi, I am Sazid, a Data Analyst based in Asia 🌏 </br> I am passionate about data, open source, and helping people around.
+    subtitle: "Hi 👋! I am Sazid, a Data Analyst at MMC, located in Asia. 🌏 <br> I am passionate about data, open source, and sharing knowledge with others."
     imageUrl: "home/sazid.jpeg"
     imageWidth: 175
     imageHeight: 175
