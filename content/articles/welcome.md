@@ -1,18 +1,24 @@
 ---
-title: "Welcome 🙋🏻‍♂️"
+title: "Welcome 👋"
 description: "A bit of myself"
 dateString: Oct 2023
 draft: false
+#tags: ["sazid", "introduction", "story"]
 weight: 101
-cover: 
+cover:
+    #image: "home/sazid.jpeg"
 ---
 
-Hi, this is Sazid, here's a little about me.
+Hi, this is Sazid, here's my story.
 
 Finally have a portfolio, where you get to know about my story in one place.
 
+
 `add the story for later`
 
-That's for today!
+
+Yeah, that's my story for today! Thanks so much for reading till this end! :)
+
+-Signing off,
 
 Sazid
