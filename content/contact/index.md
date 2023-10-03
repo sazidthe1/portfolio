@@ -1,5 +1,5 @@
-**Contact** 
+# **Contact**
 
-☕️ 
+☕️
 
-If you wish to know more about me, let's setup a 1:1 call. You can do that from [here](https://bio.link/sazidthe1).
+Let's set up a 1:1 call if you would like to know more about me. You can do that from [here](https://bio.link/sazidthe1).
