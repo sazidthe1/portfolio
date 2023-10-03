@@ -15,4 +15,4 @@ Finally have a portfolio, where you get to know about my story in one place.
 
 That's for today!
 
-Sazidhi
+Sazid
